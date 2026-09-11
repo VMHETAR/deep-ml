@@ -1,0 +1,57 @@
+{
+  "generated_at": "2026-09-17T15:55:55.937Z",
+  "items": {
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-09-11T11:59:39.530Z",
+      "last_pushed_at": "2026-09-11T11:59:39.530Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-09-11T12:17:16.789Z",
+      "last_pushed_at": "2026-09-11T12:17:16.789Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-09-11T12:37:28.089Z",
+      "last_pushed_at": "2026-09-11T12:37:28.089Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-09-11T17:38:35.192Z",
+      "last_pushed_at": "2026-09-11T17:38:35.192Z",
+      "language": "python",
+      "lines": 14
+    }
+  }
+}
