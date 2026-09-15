@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T15:55:58.418Z",
+  "generated_at": "2026-09-17T15:56:00.130Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -65,6 +65,71 @@
       "last_pushed_at": "2026-09-14T15:12:03.152Z",
       "language": "python",
       "lines": 6
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-09-15T12:30:56.570Z",
+      "last_pushed_at": "2026-09-15T12:30:56.570Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2026-09-15T13:37:58.919Z",
+      "last_pushed_at": "2026-09-15T13:37:58.919Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-09-15T14:11:48.076Z",
+      "last_pushed_at": "2026-09-15T14:11:48.076Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-09-15T14:17:03.558Z",
+      "last_pushed_at": "2026-09-15T14:17:03.558Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:887": {
+      "kind": "problem",
+      "id": "887",
+      "title": "Build an MLP with nn.Sequential",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/887",
+      "path": "problems/0887-build-an-mlp-with-nn-sequential",
+      "first_solved_at": "2026-09-15T14:21:37.537Z",
+      "last_pushed_at": "2026-09-15T14:21:37.537Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
