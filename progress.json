@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T10:29:53.049Z",
+  "generated_at": "2026-09-19T11:39:10.001Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -234,6 +234,19 @@
       "last_pushed_at": "2026-09-19T10:29:35.980Z",
       "language": "python",
       "lines": 27
+    },
+    "lab:23": {
+      "kind": "lab",
+      "id": "23",
+      "title": "Train a Binary Classifier",
+      "difficulty": "easy",
+      "category": "Logistic Regression",
+      "url": "https://www.deep-ml.com/labs/23",
+      "path": "labs/0023-train-a-binary-classifier",
+      "first_solved_at": "2026-09-19T11:39:06.419Z",
+      "last_pushed_at": "2026-09-19T11:39:06.419Z",
+      "language": "python",
+      "lines": 47
     }
   }
 }

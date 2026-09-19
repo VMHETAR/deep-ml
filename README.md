@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**18** solved · 18 problems · 0 labs · 0 math
+**19** solved · 18 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Toy Models of Superposition: Feature Reconstruction](https://www.deep-ml.com/problems/862) | medium | 2026-09-18 | [solution](problems/0862-toy-models-of-superposition-feature-reconstruction) |
 | [Differential Sarsa Algorithm](https://www.deep-ml.com/problems/541) | hard | 2026-09-19 | [solution](problems/0541-differential-sarsa-algorithm) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-09-18 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Train a Binary Classifier](https://www.deep-ml.com/labs/23) | easy | 2026-09-19 | [solution](labs/0023-train-a-binary-classifier) |
 
 ---
 
