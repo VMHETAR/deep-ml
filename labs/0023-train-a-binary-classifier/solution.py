@@ -18,7 +18,7 @@ def train(X_train, y_train, X_val, y_val):
     b = 0.0
 
     learning_rate = 0.01
-    iterations = 1000
+    iterations = 10000
 
     def sigmoid(z):
         return 1 / (1 + np.exp(-z))
